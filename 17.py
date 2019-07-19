@@ -13,3 +13,4 @@ else:
 print("programa encerrado!!!")
 # teste linha 14 ok ok
 # beleza
+# do remoto para local
