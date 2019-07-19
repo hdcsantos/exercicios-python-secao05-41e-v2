@@ -11,4 +11,4 @@ else:
     print(f'A área do trapézio de de {area}')
 
 print("programa encerrado!!!")
-# teste linha 14
+# teste linha 14 ok ok
