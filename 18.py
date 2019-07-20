@@ -15,5 +15,7 @@ elif operacao == 'multiplicacao':
     print(f'Resultado da multiplicação é {op_matematicas.multiplicacao(n1, n2)}')
 elif operacao == 'divisao':
     print(f'Resultado da divisão é {op_matematicas.divisao(n1, n2)}')
+elif operacao == 'resto':
+    print(f'Resultado da divisão é {op_matematicas.resto(n1, n2)}')    
 else:
     print("Operação desconhecida !!!")
