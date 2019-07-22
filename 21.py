@@ -7,7 +7,7 @@ print('Escolha a opção:\n'
       '4 - Divisão entre dois números (o denominador não pode ser zero).')
 opcao = int(input('Opção: '))
 
-if  opcao < 1 or opcao > 4:
+if opcao < 1 or opcao > 4:
     print("Opção inválida !!!")
 else:
     n1 = int(input("Infome o primeiro número: "))
@@ -33,5 +33,4 @@ else:
         else:
             resultado = op_matematicas.divisao(n1, n2)
             print(f"Divisão entre dois números é {resultado}")
-            
 print("Fim do programa !!!")
