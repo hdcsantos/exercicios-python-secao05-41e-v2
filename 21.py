@@ -12,11 +12,11 @@ if opcao == '1':
     n2 = int(input("Infome o segundo número: "))
     resultado = op_matematicas.soma(n1, n2)
     print(f"Soma dos dois números é {resultado}")
-elif opcao == '2':
+# elif opcao == '2':
 
-elif opcao == '3':
+# elif opcao == '3':
 
-elif opcao == '4':
+# elif opcao == '4':
 
 else:
     print("Opção inválida !!!")
