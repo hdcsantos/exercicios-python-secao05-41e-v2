@@ -1,0 +1,1 @@
+print('Lado dos triangulos')
