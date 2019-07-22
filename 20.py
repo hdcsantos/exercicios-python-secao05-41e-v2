@@ -12,4 +12,4 @@ if (b + c) > a and (c + a) > b and (a + b) > c :
     elif a != b and b != c and c != a:
         print('O triangulo criado é escaleno')
 else:
-  print('De acordo com as medidas, vc não criou um triângulo !!!')
+  print('De acordo com as medidas, vc não criou um triângulo !!!!')
