@@ -26,7 +26,7 @@ else:
     elif opcao == 3:
         resultado = op_matematicas.produto(n1, n2)
         print(f"Produto entre os dois números é {resultado}")
-    elif opcao == 4:
+    else: # elif opcao == 4:
         if n2 == 0:
             print("O denominador (segundo número), não pode ser 0 (zero) !!! "
                   "Execute novamente !")
