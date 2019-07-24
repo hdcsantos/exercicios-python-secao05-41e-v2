@@ -6,8 +6,6 @@ x = -b +- raiz quadrada de Δ / 2*a
 """
 import math
 
-# def segrau (a, b, c):
-
 a = int(input("Digite o valor de a: "))
 b = int(input("Digite o valor de b: "))
 c = int(input("Digite o valor de c: "))
